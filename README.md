@@ -319,6 +319,17 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 ---
 
+## 📫 How to Reach Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions! Whether you have a complex automation problem or need a scalable web application built from scratch, I'd love to hear from you.
+
+- 📧 **Email:** [engineer.hamas.munawar@gmail.com](mailto:engineer.hamas.munawar@gmail.com)
+- 🌐 **Portfolio:** [hamas-munawar.com](https://hamas-munawar.com)
+- 𝕏 **Twitter/X:** [@HamasMunawar_](https://x.com/@HamasMunawar_)
+- 📸 **Instagram:** [@engineer.hamas](https://instagram.com/engineer.hamas)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
