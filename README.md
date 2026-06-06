@@ -18,7 +18,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hamas--munawar.com-6E40C9?style=for-the-badge)](https://hamas-munawar.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.hamas.munawar@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamasmunawar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/engineer.hamas)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@HamasMunawar_)
 
 </div>
@@ -253,7 +253,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>📦 Libraries & UI</b></summary>
 <br/>
 
@@ -322,22 +322,28 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&v=3)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&layout=compact&v=3)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamas-munawar&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-<br/>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hamas-munawar&theme=radical&no-frame=false&no-bg=true&v=3)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&v=3" height="195" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&layout=compact&v=3" height="195" alt="Top Languages" />
+  </a>
+</div>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamas-munawar&bg_color=141321&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=2d0a5e&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=hamas-munawar&theme=radical&hide_border=false" height="195" alt="GitHub Streak" />
+  </a>
+</div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamas-munawar&bg_color=141321&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=2d0a5e&hide_border=false" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
