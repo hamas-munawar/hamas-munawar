@@ -1,17 +1,136 @@
-# 💫 About Me:
-Personal Portfolio ---> hamas-munawar.com
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hamas+Munawar+%F0%9F%91%8B;GoHighLevel+%26+Automation+Expert;Full-Stack+Web+Engineer;Complexity+is+an+Opportunity.)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamasmunawar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@HamasMunawar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadhamasmunawar@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+🟢 **Currently Online & Accepting Projects** · Pakistan `PKT`
 
-### ✍️ Random Dev Quote
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-hamas--munawar.com-6E40C9?style=for-the-badge)](https://hamas-munawar.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engineer.hamas.munawar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamasmunawar)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@HamasMunawar_)
+
+</div>
+
+---
+
+## 👤 About Me
+
+I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer** based in Pakistan. I build two things exceptionally well:
+
+- 🤖 **GoHighLevel & Automation Systems** — CRM architecture, workflow automation, funnels, and custom sub-account builds that scale agencies and businesses efficiently
+- 🌐 **High-Performance Web Applications** — from cinematic e-commerce storefronts and SaaS dashboards to browser extensions and productivity tooling, built end-to-end with modern stacks
+
+> _"Complexity is an Opportunity."_ — I thrive on projects others find too difficult to scope.
+
+---
+
+## 💼 Featured Projects
+
+|  #  | Project                  | Client           | Industry                   | Impact                        |                                Link                                |
+| :-: | ------------------------ | ---------------- | -------------------------- | ----------------------------- | :----------------------------------------------------------------: |
+| 🥇  | **Issues Tracker**       | Internal Tooling | Business & Management      | Accelerated Project Delivery  |   [Source Code](https://github.com/hamas-munawar/Issues-Tracker)   |
+| 🥈  | **Sehlvet Experience**   | Sehlvet          | Premium Menswear           | Brand Authority & Retention   |           [Live Store](https://sehlvet-store.vercel.app)           |
+| 🥉  | **Kumo Store**           | Kumo Brand       | Retail / E-Commerce        | Seamless Shopping Experience  |            [Live Store](https://kumo-store.vercel.app)             |
+|  4  | **YouTube Studio Suite** | Open Source      | Media Tooling & Automation | Streamlined Media Downloading | [Repository](https://github.com/hamas-munawar/youtube-downloader)  |
+|  5  | **NUML QEC**             | Open Source      | Education & Automation     | Automated Feedback Processing | [Repository](https://github.com/hamas-munawar/numl-qec-evaluation) |
+|  6  | **Game Hub**             | Independent      | Gaming & Entertainment     | Instant Content Discovery     |          [Live App](https://games-hub-tawny.vercel.app/)           |
+|  7  | **Street Kickz**         | Street Kickz PK  | Retail / E-Commerce        | Elevated Sneaker Shopping     |             [Live Store](https://streetkickzpk.store)              |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🗣️ Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+### ⚙️ Frameworks & Runtime
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+
+<br/>
+
+### 📦 Libraries & UI
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-55b33c?style=for-the-badge&logo=greensock&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+<br/>
+
+### 🗄️ Databases & ORM
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+<br/>
+
+### 🔐 Auth & Architecture
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<br/>
+
+### 📝 CMS & Content
+
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white) ![TinaCMS](https://img.shields.io/badge/TinaCMS-EC4815?style=for-the-badge&logo=tinacms&logoColor=white)
+
+<br/>
+
+### 🚀 DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+
+<br/>
+
+### 🎨 Dev Tools & Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Thunder Client](https://img.shields.io/badge/Thunder_Client-5C2D91?style=for-the-badge&logo=thunder-client&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+<br/>
+
+### 🖥️ IDEs & Editors
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
+
+<br/>
+
+### ⚡ Environment
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) ![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=zsh&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/></td>
+  </tr>
+</table>
+
+<br/>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hamas-munawar&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+### ✍️ Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hamas-munawar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=hamas-munawar&icon=0&color=12)](https://visitcount.itsvg.in)
+
+</div>
