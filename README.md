@@ -51,7 +51,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 ## 🤝 Services I Offer
 
-<details>
+<details open>
 <summary><b>🖥️ High-Performance Next.js & Frontend Engineering</b></summary>
 <br/>
 
@@ -65,7 +65,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Scalable MERN Stack Backend Architecture</b></summary>
 <br/>
 
@@ -150,7 +150,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 ## 🛠️ Tech Stack
 
-<details>
+<details open>
 <summary><b>🗣️ Languages</b></summary>
 <br/>
 
@@ -158,7 +158,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚙️ Frameworks & Runtime</b></summary>
 <br/>
 
@@ -236,8 +236,8 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamas-munawar&theme=radical&hide_border=false&include_all_commits=true&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -245,7 +245,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 <br/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hamas-munawar&theme=radical&no-frame=false&no-bg=true&margin-w=6&v=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hamas-munawar&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15&v=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
