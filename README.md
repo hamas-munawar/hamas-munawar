@@ -51,7 +51,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 ## 🤝 Services I Offer
 
-<details open>
+<details>
 <summary><b>🖥️ High-Performance Next.js & Frontend Engineering</b></summary>
 <br/>
 
@@ -65,7 +65,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details open>
+<details>
 <summary><b>🗄️ Scalable MERN Stack Backend Architecture</b></summary>
 <br/>
 
@@ -129,20 +129,113 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 <summary><b>View All Certifications (12)</b></summary>
 <br/>
 
-| Certificate                         | Instructor     |
-| ----------------------------------- | -------------- |
-| 🌐 Web Development Fundamentals     | SimpliLearn    |
-| 🤖 Build AI-Powered Apps            | Code with Mosh |
-| ⚛️ Mastering Next.js                | Code with Mosh |
-| 🏗️ Next.js Project Development      | Code with Mosh |
-| ⚛️ React 18 for Beginners           | Code with Mosh |
-| ⚛️ React 18 Intermediate            | Code with Mosh |
-| 🎨 The Ultimate HTML & CSS — Part 1 | Code with Mosh |
-| 🎨 The Ultimate HTML & CSS — Part 2 | Code with Mosh |
-| 🎨 The Ultimate HTML & CSS — Part 3 | Code with Mosh |
-| 📜 The Ultimate JavaScript — Part 1 | Code with Mosh |
-| 📜 The Ultimate JavaScript — Part 2 | Code with Mosh |
-| 🟦 The Ultimate TypeScript          | Code with Mosh |
+<details open>
+<summary><b>⚛️ Mastering Next.js</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/mastering-next.js.webp" width="400px" alt="Mastering Next.js"/>
+</div>
+<br/>
+</details>
+
+<details open>
+<summary><b>🤖 Build AI-Powered Apps</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/build-ai-powered-apps.webp" width="400px" alt="Build AI-Powered Apps"/>
+</div>
+<br/>
+</details>
+
+<details open>
+<summary><b>🏗️ Next.js Project Development</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/next.js-project.webp" width="400px" alt="Next.js Project Development"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🟦 The Ultimate TypeScript</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/ultimate-typescript.webp" width="400px" alt="The Ultimate TypeScript"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>⚛️ React 18 for Beginners</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/react-18-beginners.webp" width="400px" alt="React 18 for Beginners"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>⚛️ React 18 Intermediate</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/react-18-intermediate.webp" width="400px" alt="React 18 Intermediate"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>📜 The Ultimate JavaScript — Part 1</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/ultimate-javascript-part-1.webp" width="400px" alt="The Ultimate JavaScript — Part 1"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>📜 The Ultimate JavaScript — Part 2</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/ultimate-javascript-part-2.webp" width="400px" alt="The Ultimate JavaScript — Part 2"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🎨 The Ultimate HTML & CSS — Part 1</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/ultimate-html-css-part-1.webp" width="400px" alt="The Ultimate HTML & CSS — Part 1"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🎨 The Ultimate HTML & CSS — Part 2</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/ultimate-html-css-part-2.webp" width="400px" alt="The Ultimate HTML & CSS — Part 2"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🎨 The Ultimate HTML & CSS — Part 3</b> (Code with Mosh)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/ultimate-html-css-part-3.webp" width="400px" alt="The Ultimate HTML & CSS — Part 3"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>🌐 Web Development Fundamentals</b> (SimpliLearn)</summary>
+<br/>
+<div align="center">
+  <img src="./images/certificates/web-development.webp" width="400px" alt="Web Development Fundamentals"/>
+</div>
+<br/>
+</details>
 
 </details>
 
@@ -174,7 +267,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Databases & ORM</b></summary>
 <br/>
 
@@ -182,7 +275,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>🔐 Auth & Architecture</b></summary>
 <br/>
 
@@ -190,7 +283,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>📝 CMS & Content</b></summary>
 <br/>
 
@@ -198,7 +291,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>🚀 DevOps & Infrastructure</b></summary>
 <br/>
 
@@ -206,7 +299,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 Dev Tools & Design</b></summary>
 <br/>
 
@@ -214,7 +307,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>🖥️ IDEs & Editors</b></summary>
 <br/>
 
@@ -222,7 +315,7 @@ I'm **Hamas Munawar**, a dual-specialist **Automation & Full-Stack Web Engineer*
 
 </details>
 
-<details>
+<details open>
 <summary><b>⚡ Environment</b></summary>
 <br/>
 
