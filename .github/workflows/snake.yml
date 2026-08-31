@@ -20,7 +20,7 @@ jobs:
       - name: Generate snake (dark + light)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: hamas-munawar
+          github_user_name: engineer-hamas
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
